@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0.1,10,20,30&height=200&section=header&text=AIMl-24&fontSize=48&fontColor=00f0ff&animation=twinkle)
+![](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=AIMl-24&fontSize=48&fontColor=ffffff&animation=twinkle)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hiten1896-AIMl-24&label=Chat+Visitors&color=blueviolet&style=flat-square" alt="visitor badge" />
