@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/git.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=4,10,20,30&height=180&section=header&text=AIMl-24&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
 <div align="center">
