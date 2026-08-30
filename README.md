@@ -1,7 +1,5 @@
-<div align="center">
-  <!-- Capsule Render Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Hiten%20Sharma&fontSize=48&fontColor=ffffff&animation=twinkle" width="100%" />
-  
+[https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=AIMl-24&fontSize=48&fontColor=ffffff&animation=twinkle](https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=AIMl-24&fontSize=48&fontColor=ffffff&animation=twinkle)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hiten1896-AIMl-24&label=Chat+Visitors&color=blueviolet&style=flat-square" alt="visitor badge" />
   <img src="https://img.shields.io/badge/Status-Active%20Chatting-success?style=flat-square&logo=github" alt="status badge" />
