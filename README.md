@@ -1,4 +1,6 @@
-![Hiten Sharma Banner](https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=4,10,20,30&height=180&section=header&text=Hiten%20Sharma&fontSize=60&animation=fadeIn&fontColor=ffffff)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=gradient&customColorList=4,10,20,30&height=180&section=header&text=Hiten%20Sharma&fontSize=60&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Hiten1896-AIMl-24&label=Chat+Visitors&color=blueviolet&style=flat-square" alt="visitor badge" />
